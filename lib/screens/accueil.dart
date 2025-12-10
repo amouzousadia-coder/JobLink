@@ -175,7 +175,7 @@ class Accueil extends StatelessWidget {
         ],
         currentIndex: 0,
         selectedItemColor: const Color.fromARGB(255, 0, 19, 233),
-        unselectedItemColor: Colors.grey,
+        unselectedItemColor: const Color.fromARGB(255, 0, 0, 0),
         backgroundColor: Colors.white,
         elevation: 8,
       ),

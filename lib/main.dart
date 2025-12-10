@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:joblink/accueil.dart';
+import 'package:joblink/screens/accueil.dart';
 
 void main() {
   runApp(const MyApp());
