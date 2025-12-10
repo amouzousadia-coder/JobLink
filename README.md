@@ -1,16 +1,22 @@
-# joblink
+# JobLink 
 
-A new Flutter project.
+Application Flutter pour mettre en relation candidats et recruteurs...
 
-## Getting Started
+## Équipe du Projet
+- **eunice_branche** : Interface d'accueil (Home Screen)
+- **ededa_branch** : Interface de Candidature
+- **[À compléter]** : Interface de Profil  
+- **[À compléter]** : Interface de Favoris
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités
+- Interface d\'accueil avec liste des offres
+- Filtres par type de contrat (CDI, CDD, Stage)
+- Cartes détaillées des offres d\'emploi
+- Navigation bottom bar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+```bash
+git clone https://github.com/amouzousadia-coder/JobLink.git
+cd JobLink
+flutter pub get
+flutter run2e8cf
